@@ -164,6 +164,15 @@
 
 ---
 
+🎥 I'm Also a Tech Content Creator
+
+🚀 I teach AI Engineering, FastAPI, RAG, Automation, n8n, DevOps
+
+🎬 YouTube Tutorials (Full Projects)
+📱 Instagram (Quick Tips & Reels)
+🎵 TikTok (Short AI Tutorials)
+🧠 Real-world production systems
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ammad-123&label=Profile+Views&color=blue&style=flat" />
 </p>
