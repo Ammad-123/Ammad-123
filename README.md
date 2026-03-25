@@ -166,13 +166,19 @@
 
 🎥 I'm Also a Tech Content Creator
 
-🚀 I teach AI Engineering, FastAPI, RAG, Automation, n8n, DevOps
+<p align="center">
+  <a href="https://www.youtube.com/@LearnCodeWithHafiz">
+    <img src="https://img.shields.io/badge/🎬%20YouTube-LearnCodeWithHafiz-FF0000?style=for-the-badge">
+  </a>
+  <a href="https://www.instagram.com/code.withhafiz/">
+    <img src="https://img.shields.io/badge/📸%20Instagram-code.withhafiz-E4405F?style=for-the-badge">
+  </a>
+  <a href="https://www.tiktok.com/@code.withhafiz">
+    <img src="https://img.shields.io/badge/🎵%20TikTok-code.withhafiz-000000?style=for-the-badge">
+  </a>
+</p>
 
-🎬 YouTube Tutorials (Full Projects)
-📱 Instagram (Quick Tips & Reels)
-🎵 TikTok (Short AI Tutorials)
-🧠 Real-world production systems
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ammad-123&label=Profile+Views&color=blue&style=flat" />
 </p>
