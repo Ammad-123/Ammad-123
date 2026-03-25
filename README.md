@@ -1,141 +1,125 @@
 <h1 align="center">Hi 👋, I'm Hafiz Ammad</h1>
-<h3 align="center">Full Stack & AI Engineer | LLMs | RAG | Scalable Systems</h3>
+<h3 align="center">🚀 Full Stack & AI Engineer | DevOps | Cloud Architect</h3>
 
 <p align="center">
-  <a href="mailto:hafizpycoder@gmail.com">📧 Email</a> •
-  <a href="https://hafizpycoder.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/Ammad-123">💻 GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;RAG+Systems+Expert;DevOps+Engineer;Cloud+%26+Scalable+Systems;FastAPI+%7C+LangChain+%7C+Docker" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **AI-powered platforms & scalable backend systems**
-- 🤖 Specialized in **LLMs, RAG Systems, and Agentic AI**
-- 🌱 Exploring **advanced AI orchestration & cloud-native architectures**
-- 💬 Ask me about **FastAPI, LangChain, AI Chatbots, WebSockets**
-- 📍 Based in **Lahore, Pakistan**
+## 🌟 About Me
+💡 Passionate about building **AI-powered scalable systems**  
+⚡ Strong in **DevOps, Cloud & Backend Engineering**  
+🤖 Specialized in **LLMs, RAG, and Agentic AI**  
+🌍 Based in **Lahore, Pakistan**
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Backend
-- Python, Node.js, Golang, PHP, .NET  
-- FastAPI, Django, Flask  
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### ⚙️ Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+---
 
 ### 🎨 Frontend
-- React.js, Next.js  
-- HTML, CSS, JavaScript, Tailwind  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+
+---
 
 ### 🤖 AI / ML
-- LLMs: GPT-4o, Grok, LLaMA 3.x, Gemini  
-- LangChain, LangGraph  
-- Hugging Face, NLTK  
-- PyTorch, TensorFlow, Keras  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
 
-### 📊 Data Science
-- Pandas, NumPy  
-- Plotly, Seaborn  
-
-### 🧩 RAG & Vector DBs
-- ChromaDB, Pinecone, FAISS  
+---
 
 ### ☁️ Cloud & DevOps
-- AWS, Azure, GCP  
-- Docker, CI/CD Pipelines  
-- EC2, Lambda, S3  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+---
 
 ### 🗄️ Databases
-- MongoDB, MySQL, PostgreSQL, DynamoDB  
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-### 📺 Live Streaming OCR System
-- Real-time OCR from video streams  
-- Microservices architecture with Kafka & gRPC  
-- Stack: Flutter, Flask, MongoDB  
-
----
-
-### 📄 Enterprise RAG Agent
-- Context-aware PDF knowledge system  
-- Smart document ingestion & retrieval  
-- Stack: FastAPI, LangChain, ChromaDB  
+### 🧠 Enterprise RAG System
+✔ Smart document ingestion  
+✔ Vector search (ChromaDB)  
+✔ Agentic workflows  
 
 ---
 
-### 🛒 AI E-Commerce Chatbot
-- Multi-model NLP pipeline  
-- Context-aware conversations  
-- Stack: PyTorch, FastAPI, Streamlit  
+### 🤖 AI Chatbot System
+✔ Multi-model (GPT-4o, LLaMA, Grok)  
+✔ Web search integration  
+✔ Real-time responses  
 
 ---
 
-### 🤖 AI Agent Chatbot
-- Multi-model support (GPT-4o, LLaMA)  
-- Web search integration  
-- Built with LangGraph + FastAPI  
+### 🎰 Casino Platform
+✔ Real-time WebSockets  
+✔ Payment integrations (Stripe, PayPal, Crypto)  
+✔ Full-stack architecture  
 
 ---
 
-### 🧬 Fine-tuned LLM (Gemma + LoRA)
-- Parameter-efficient fine-tuning  
-- Custom Keras training pipeline  
+### 🧘 AI Wellness Platform
+✔ Mood tracking + AI insights  
+✔ Real-time chat  
+✔ LLM-powered analysis  
 
 ---
 
-### 🎰 Casino Platform (casinoze.com)
-- Real-time gaming system with WebSockets  
-- Multi-payment integration (Stripe, PayPal, Crypto)  
-- Full-stack architecture (Django + JS)  
-
----
-
-### 🧘 AI Wellness Platform (patientflowpro.co)
-- Mood tracking & AI coaching  
-- Real-time chat with WebSockets  
-- LLM-powered insights & journaling  
-
----
-
-## 💼 Work Experience
-**Full Stack / AI Engineer**  
-📍 QMHTech, Rawalpindi (2024 - Present)
-
----
-
-## 🎓 Education
-- 🎓 BS Computer Science — Gomal University  
-
----
-
-## 📜 Certifications
-- CCNA  
-- Git for Beginners (Udemy)  
-- Data Science & AI Certification  
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammad-123&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammad-123&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammad-123&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammad-123&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
-- 📧 hafizpycoder@gmail.com  
-- 🌐 https://hafizpycoder.netlify.app/  
-- 💻 https://github.com/Ammad-123  
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:hafizpycoder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://hafizpycoder.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
+  </a>
+  <a href="https://github.com/Ammad-123">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-⭐ *"Building scalable AI systems that solve real-world problems."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ammad-123&label=Profile+Views&color=blue&style=flat" />
+</p>
+
+---
+
+<h3 align="center">✨ "Building Intelligent Systems That Scale" ✨</h3>
