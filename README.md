@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack & AI Engineer | DevOps | Cloud Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=AI+Engineer;RAG+Systems+Expert;DevOps+Engineer;Agentic+AI+%26+Automation+(n8n);Cloud+%26+Scalable+Systems;FastAPI+%7C+LangChain+%7C+Docker" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=AI+Engineer;RAG+Systems+Expert;DevOps+Engineer;Agentic+AI+%26+Automation+(n8n);Cloud+%26+Scalable+Systems;FastAPI+%7C+LangChain+%7C+Docker;Chatbot+Expert+(RAG+Based);AI+Integration+(Web+%26+Apps);Python+Automation+Scripts;Desktop+App+Development+%26+Deployment" />
 </p>
 
 
