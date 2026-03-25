@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=AI+Engineer;RAG+Systems+Expert;DevOps+Engineer;Agentic+AI+%26+Automation+(n8n);Cloud+%26+Scalable+Systems;FastAPI+%7C+LangChain+%7C+Docker" />
 </p>
----
+
 
 ## 🌟 About Me
 💡 Passionate about building **AI-powered scalable systems**  
