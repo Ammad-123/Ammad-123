@@ -160,6 +160,9 @@
   <a href="https://github.com/Ammad-123">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
+   <a href="https://www.linkedin.com/in/hafiz-muhammad-ammad-620505167">
+    <img src="https://img.shields.io/badge/LinkedIn-Hafiz%20Ammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
