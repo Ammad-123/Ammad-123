@@ -1,81 +1,141 @@
 <h1 align="center">Hi 👋, I'm Hafiz Ammad</h1>
-<h3 align="center">🚀 DevOps Engineer | AI Engineer | Full Stack Developer</h3>
+<h3 align="center">Full Stack & AI Engineer | LLMs | RAG | Scalable Systems</h3>
 
 <p align="center">
-I am a DevOps Engineer with skills in AWS, Azure, Docker, Kubernetes, Python, and Golang.<br/>
-I build scalable AI systems, automate workflows, and develop modern SaaS applications.
+  <a href="mailto:hafizpycoder@gmail.com">📧 Email</a> •
+  <a href="https://hafizpycoder.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/Ammad-123">💻 GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **AI SaaS & Automation Systems**
-- 🤖 Building **LLM Apps (RAG, Agents, Chatbots)**
-- ⚡ Expert in **FastAPI, Django, Microservices**
-- ☁️ Cloud: **AWS | Azure | GCP**
-- 🐳 DevOps: **Docker | Kubernetes | CI/CD**
-- 📊 Data: **PySpark | Kafka | ETL Pipelines**
+- 🔭 I’m currently working on **AI-powered platforms & scalable backend systems**
+- 🤖 Specialized in **LLMs, RAG Systems, and Agentic AI**
+- 🌱 Exploring **advanced AI orchestration & cloud-native architectures**
+- 💬 Ask me about **FastAPI, LangChain, AI Chatbots, WebSockets**
+- 📍 Based in **Lahore, Pakistan**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,go,js,php" />
-</p>
+### 👨‍💻 Languages & Backend
+- Python, Node.js, Golang, PHP, .NET  
+- FastAPI, Django, Flask  
 
-### ⚙️ Backend & AI
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
-</p>
+### 🎨 Frontend
+- React.js, Next.js  
+- HTML, CSS, JavaScript, Tailwind  
+
+### 🤖 AI / ML
+- LLMs: GPT-4o, Grok, LLaMA 3.x, Gemini  
+- LangChain, LangGraph  
+- Hugging Face, NLTK  
+- PyTorch, TensorFlow, Keras  
+
+### 📊 Data Science
+- Pandas, NumPy  
+- Plotly, Seaborn  
+
+### 🧩 RAG & Vector DBs
+- ChromaDB, Pinecone, FAISS  
 
 ### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git" />
-</p>
+- AWS, Azure, GCP  
+- Docker, CI/CD Pipelines  
+- EC2, Lambda, S3  
 
 ### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+- MongoDB, MySQL, PostgreSQL, DynamoDB  
 
 ---
 
-## 🔥 Featured Projects
+## 🏆 Featured Projects
 
-🚀 **Live Streaming OCR System**  
-→ Microservices + Kafka + Flask + gRPC  
-
-🤖 **AI RAG System (PDF Chat)**  
-→ LangChain + ChromaDB + FastAPI  
-
-💬 **AI Chatbot (Multi-Model NLP)**  
-→ PyTorch + FastAPI + Streamlit  
-
-🧠 **AI Wellness Platform**  
-→ Real-time WebSockets + LLMs  
+### 📺 Live Streaming OCR System
+- Real-time OCR from video streams  
+- Microservices architecture with Kafka & gRPC  
+- Stack: Flutter, Flask, MongoDB  
 
 ---
 
-## 📊 GitHub Stats
+### 📄 Enterprise RAG Agent
+- Context-aware PDF knowledge system  
+- Smart document ingestion & retrieval  
+- Stack: FastAPI, LangChain, ChromaDB  
+
+---
+
+### 🛒 AI E-Commerce Chatbot
+- Multi-model NLP pipeline  
+- Context-aware conversations  
+- Stack: PyTorch, FastAPI, Streamlit  
+
+---
+
+### 🤖 AI Agent Chatbot
+- Multi-model support (GPT-4o, LLaMA)  
+- Web search integration  
+- Built with LangGraph + FastAPI  
+
+---
+
+### 🧬 Fine-tuned LLM (Gemma + LoRA)
+- Parameter-efficient fine-tuning  
+- Custom Keras training pipeline  
+
+---
+
+### 🎰 Casino Platform (casinoze.com)
+- Real-time gaming system with WebSockets  
+- Multi-payment integration (Stripe, PayPal, Crypto)  
+- Full-stack architecture (Django + JS)  
+
+---
+
+### 🧘 AI Wellness Platform (patientflowpro.co)
+- Mood tracking & AI coaching  
+- Real-time chat with WebSockets  
+- LLM-powered insights & journaling  
+
+---
+
+## 💼 Work Experience
+**Full Stack / AI Engineer**  
+📍 QMHTech, Rawalpindi (2024 - Present)
+
+---
+
+## 🎓 Education
+- 🎓 BS Computer Science — Gomal University  
+
+---
+
+## 📜 Certifications
+- CCNA  
+- Git for Beginners (Udemy)  
+- Data Science & AI Certification  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ammad-123&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammad-123&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammad-123&show_icons=true&theme=radical" />
 </p>
-
----
-
-## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://hafizpycoder.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:hafizpycoder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammad-123&theme=radical" />
 </p>
 
 ---
 
-## ⚡ Fun Line
-💡 *"I don’t just write code — I build scalable systems that solve real problems."*
+## 🔗 Connect With Me
+- 📧 hafizpycoder@gmail.com  
+- 🌐 https://hafizpycoder.netlify.app/  
+- 💻 https://github.com/Ammad-123  
+
+---
+
+⭐ *"Building scalable AI systems that solve real-world problems."*
