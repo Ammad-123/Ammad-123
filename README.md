@@ -62,12 +62,38 @@
 
 ---
 
+## 🗄️ Databases, APIs & SaaS Expertise
+
 ### 🗄️ Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-darkblue?style=for-the-badge&logo=amazon-dynamodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
+---
+
+### 🔌 APIs & Backend Architecture
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![API Development](https://img.shields.io/badge/API%20Expert-black?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge)
+
+---
+
+### 🚀 SaaS & Full Stack Expertise
+![SaaS](https://img.shields.io/badge/SaaS%20Products-6C63FF?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-000?style=for-the-badge)
+![AI Platforms](https://img.shields.io/badge/AI%20Platforms-412991?style=for-the-badge)
+![Web Apps](https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge)
+
+---
+
+### 🤖 AI Automation & Builders
+![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-black?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-00C7B7?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-FF4B4B?style=for-the-badge)
 ---
 
 ### ☁️ Cloud & DevOps
