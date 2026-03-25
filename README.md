@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋 I'm Hafiz Ammad — Full Stack AI Engineer from Pakistan 🇵🇰  
 
-<!--
-**Ammad-123/Ammad-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build scalable AI-powered SaaS products using modern technologies.
 
-Here are some ideas to get you started:
+💡 What I Do:
+- 🤖 AI & LLM Applications (LangChain, RAG, Agents)
+- ⚡ Backend Development (FastAPI, Django, APIs)
+- 🌐 Full Stack Apps (React, Next.js)
+- ☁️ Cloud & DevOps (AWS, Docker, CI/CD)
+- 📊 Data Engineering (PySpark, Kafka, ETL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Featured Work:
+- Live Streaming OCR System (Microservices + Kafka)
+- AI RAG System for PDFs (ChromaDB + LangChain)
+- AI Chatbots with Multi-Model NLP
+- AI Wellness Platform with Real-time WebSockets
+
+🧠 Tech Stack:
+Python | FastAPI | Django | LangChain | LLMs | React | AWS | Docker | MongoDB | SQL
+
+📫 Let's Connect:
+- 🌐 Portfolio: https://hafizpycoder.netlify.app
+- 💼 LinkedIn: (add your link)
+- 📧 Email: hafizpycoder@gmail.com
+
+⚡ "Turning ideas into scalable AI products"
